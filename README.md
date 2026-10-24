@@ -13,7 +13,7 @@ Minha trajetória na tecnologia está apenas começando. Busco desenvolver minha
 
 ---
 
-## Tech stack
+## Tecnologias
 
 <div align="center">
 
