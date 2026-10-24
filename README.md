@@ -5,7 +5,7 @@ Este repositório foi criado com o objetivo de armazenar projetos, códigos e ma
 ## 🛠️ Algumas das tecnologias utilizadas
 
 * Python
-* CSS
+* HTML & CSS
 * JavaScript
 
 ## 📄 Licença
