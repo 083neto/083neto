@@ -13,7 +13,6 @@
 Minha trajetória na tecnologia está apenas começando. Busco desenvolver minhas habilidades por meio dos estudos, da prática e da criação de projetos, sempre explorando novas possibilidades e buscando o que há de melhor nesse universo da tecnologia.
 * 🐍 Atualmente, estudando Python e buscando aprofundar meus conhecimentos em Git e GitHub.
 
-
 ---
 
 ## Skills
