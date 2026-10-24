@@ -1,16 +1,13 @@
-## Hi there 👋
+# Meu Repositório
 
-<!--
-**083neto/083neto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Este repositório foi criado com o objetivo de armazenar projetos, códigos e materiais desenvolvidos durante meus estudos de programação.
 
-Here are some ideas to get you started:
+## 🛠️ Algumas das tecnologias utilizadas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Python
+* CSS
+* JavaScript
+
+## 📄 Licença
+
+Este projeto está disponível sob a licença MIT.
