@@ -1,5 +1,3 @@
-<img src="https://github.com/083neto/083neto/blob/fd1815d65d97385c249a6064d50df0e6674ccad1/assets/banner.jpg" width="100%" alt="Banner do perfil" />
-
 # 👨‍💻 Neto | Futuro Back-end Developer
 
 *Transformando aprendizado em código, um projeto de cada vez.*
@@ -15,13 +13,11 @@ Minha trajetória na tecnologia está apenas começando. Busco desenvolver minha
 
 ---
 
-## Skills
+## Tech stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" />
-
-<img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" />
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
 
 </div>
 
